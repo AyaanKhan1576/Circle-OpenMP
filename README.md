@@ -122,10 +122,6 @@ openmp-circle-drawing/
 
 ## 🔗 Author & Credits
 
-Made by [Your Name] as part of the Parallel & Distributed Computing Assignment  
-Instructor: [Instructor Name]  
+Made by Ayaan Khan as part of the Parallel & Distributed Computing Assignment  
 FAST-NUCES — Spring 2025
 
----
-
-```
